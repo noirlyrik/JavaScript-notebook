@@ -82,6 +82,8 @@ window.oldValue;  //undefined
 </html>
 ```
 
+![image](https://cdn.nlark.com/yuque/0/2020/png/419446/1589332763235-95c43774-2cbf-43d0-8ce2-67d8d9d17fa4.png)
+
 
 ### 8.1.3 窗口位置
 
